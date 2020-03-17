@@ -20,6 +20,7 @@ int main(int argc, char** argv)
     EKF ekf;
     Image image;
     int count = 0;
+    int test;
 
     if (capture.isOpened())
     {
