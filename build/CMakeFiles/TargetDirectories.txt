@@ -1,0 +1,3 @@
+/home/wangsipeng/opencv_learn/my_exercise/CameraStable/0.2/build/CMakeFiles/rebuild_cache.dir
+/home/wangsipeng/opencv_learn/my_exercise/CameraStable/0.2/build/CMakeFiles/CameraStableTest.dir
+/home/wangsipeng/opencv_learn/my_exercise/CameraStable/0.2/build/CMakeFiles/edit_cache.dir
